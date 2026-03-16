@@ -1,3 +1,8 @@
+//static keyword is used to create class level members.it can be variable, method, block and nested class.
+//1.static variable: when we declare a variable as static it is shared by all the objects of that class. it is also called class variable.
+//2. static method: when we declare a method as static we can call that method without creating an object of that class. it is also called class method.
+
+
 class std1{
     static String college="IICMR college";
     int id;
